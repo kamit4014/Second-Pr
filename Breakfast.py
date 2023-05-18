@@ -1,1 +1,5 @@
-print ("I had breakfast before and then started study")
+breakfast=input("did you have breakfast?")
+if breakfast=="yes":
+        print ("Great and continue learning")
+else:
+    print ("Go and have your breakfast first")
